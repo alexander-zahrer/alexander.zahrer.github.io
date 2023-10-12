@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Zahrer"
   avatar           : "profile.png"
-  bio              : #""
+  bio              : 
   location         : "Graz, Austria"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
